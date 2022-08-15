@@ -1,2 +1,2 @@
 # NiftyOptionChainAnalysisRealtime
-Nifty Option-Chain Analysis in Realtime
+Nifty Option-Chain Analysis in Real-time
