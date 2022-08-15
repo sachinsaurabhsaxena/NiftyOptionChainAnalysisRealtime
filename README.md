@@ -2,6 +2,8 @@
 
     Nifty Option-Chain Analysis in Real-time
 
+[![Codacy Security Scan](https://github.com/cyberjunky21/NiftyOptionChainAnalysisRealtime/actions/workflows/codacy.yml/badge.svg)](https://github.com/cyberjunky21/NiftyOptionChainAnalysisRealtime/actions/workflows/codacy.yml)
+
 Introduction
 Simple strategies for trend analysis in stock options data
 
