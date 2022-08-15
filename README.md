@@ -1,5 +1,6 @@
 # NiftyOptionChainAnalysisRealtime
-Nifty Option-Chain Analysis in Real-time
+
+    Nifty Option-Chain Analysis in Real-time
 
 Introduction
 Simple strategies for trend analysis in stock options data
