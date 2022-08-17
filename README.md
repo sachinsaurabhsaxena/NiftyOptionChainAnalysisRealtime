@@ -56,6 +56,7 @@ ASK PRICE – is the price of the latest sell order.
 
 ASK QTY – is the number of sell orders that are open. It indicates the option supply.
 
+
 Snapshot of the Live Worksheet
 ![NIFTYRT](https://user-images.githubusercontent.com/44409374/184597635-c7c50157-6b6e-4eb1-83c7-5802917ab898.png)
 
