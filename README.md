@@ -34,6 +34,7 @@ An options chain is a listing of all available options contracts for a given ind
 Option Chain Deconstructed
 Data in the option chain chart is grouped into 4 quadrants. Two for Calls (Yellow and White) and two for Puts (Yellow and White). The Yellow quadrant data is for In the Money contracts and the White quadrant data is for Out of the Money contracts. This is applicable for both Call and Put, but the meaning of ITM and OTM has reversed accordingly.
 
+
 Some of the key columns that are required to understand the option chain chart/matrix are:
 
 OI (Open Interest) – is the number of contracts that are traded but not exercised. It indicates the interest of traders for an option at the given strike price. Higher OI means more interest among traders, and hence indicates high liquidity for the buyer/seller to trade their options.
